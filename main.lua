@@ -1,6 +1,3 @@
--- Click the Balls Game in Love2D
--- By ChatGPT — Well-commented to help you learn!
-
 -- Ball settings
 local balls = {}              -- Table to hold all active balls
 local ballRadius = 20         -- Radius of each ball
