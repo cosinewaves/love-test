@@ -45,7 +45,7 @@ function love.draw()
 
     -- Draw all balls
     for _, ball in ipairs(balls) do
-        love.graphics.setColor(ball.r, ball.g, ball.b)
+        --love.graphics.setColor(ball.r, ball.g, ball.b)
         love.graphics.circle("fill", ball.x, ball.y, ballRadius)
     end
 end
